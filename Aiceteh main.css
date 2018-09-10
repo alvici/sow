@@ -175,7 +175,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #c5a47e !important;
+  color: #374760 !important;
 }
 
 .text-info {
@@ -222,7 +222,7 @@ a:hover {
 }
 
 .separator {
-  color: #c5a47e;
+  color: #374760;
   margin: 0 auto 20px;
   max-width: 240px;
   text-align: center;
@@ -233,7 +233,7 @@ a:hover {
   width: 40%;
   content: " ";
   margin-top: 10px;
-  border: 1px solid #c5a47e;
+  border: 1px solid #374760;
 }
 .separator:before {
   float: left;
@@ -334,7 +334,7 @@ body > .navbar-collapse a {
 .info-icon .icon {
   font-size: 62px;
   line-height: 66px;
-  color: #c5a47e;
+  color: #374760;
   margin-bottom: 10px;
 }
 .info-icon .description {
@@ -343,7 +343,7 @@ body > .navbar-collapse a {
 }
 
 .avatar {
-  border: 3px solid #c5a47e;
+  border: 3px solid #374760;
   border-radius: 50%;
   overflow: hidden;
   max-width: 110px;
@@ -2075,7 +2075,7 @@ a,
   width: 120px;
 }
 .section-clients-2 .nav-text > li.active a {
-  color: #c5a47e !important;
+  color: #374760 !important;
   border-bottom: 2px solid #c5a47e;
 }
 .section-clients-2 .nav-text > li.active a img:first-child {
